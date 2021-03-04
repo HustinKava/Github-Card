@@ -1,9 +1,9 @@
 import React from 'react';
-import Card from './components/Card';
+import Main from './pages/Main';
 
 function App() {
   return (
-    <Card/>
+    <Main/>
   )
 };
 

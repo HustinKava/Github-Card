@@ -1,0 +1,32 @@
+.cardResults {
+    background-color: #1B4E8F;
+}
+
+h5 {
+    color: #1D69BF;
+}
+
+.cardLocation {
+    color: #B9C5C5;
+}
+
+.card-text {
+    color: white;
+    font-size: 18px;
+}
+
+.cardStats {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.cardAttributes {
+    color: #C3C8CB;  
+    font-size: 12px;  
+}
+
+.form-control {
+    background-color: #E7ECEF;
+    width: 475px;
+}
